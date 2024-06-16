@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlertDialogueActivity</string>
+    <string name="enter_any_number">Enter any number</string>
+    <string name="calculate">Calculate</string>
+</resources>
